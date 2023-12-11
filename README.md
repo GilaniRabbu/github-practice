@@ -6,4 +6,5 @@
 - git branch -M main
 - git remote add origin https://github.com/GilaniRabbu/new-repo.git
 - git push -u origin main
-- git push -u origin main
+
+💯💬
