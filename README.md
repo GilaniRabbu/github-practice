@@ -7,6 +7,7 @@
 - git remote add origin https://github.com/GilaniRabbu/new-repo.git
 - git push -u origin main
 - git add .
+- git pull origin main
 
 ## <br>
 
